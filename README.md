@@ -1,7 +1,7 @@
 # Drug-Repositioning Space (v0.2)
 
 A Hugging Face Space that ranks Phase-3-failed drugs for new
-cancer indications using free public resources only.
+ indications using free public resources.
 
 ## Quick start
 
